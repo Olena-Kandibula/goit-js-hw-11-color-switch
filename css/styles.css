@@ -1,0 +1,21 @@
+body {
+  background-color: aquamarine;
+}
+section {
+  padding: 100px;
+}
+.button-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.button-item {
+  padding: 10px 30px;
+}
+
+.button-item:first-child {
+  margin-right: 30px;
+}
